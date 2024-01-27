@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fdffa1&size=35&center=true&vCenter=true&width=1000&lines=HI!,+Im+Milena+Melo;I'm+21+years+old;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fdffa1&size=35&center=true&vCenter=true&width=1000&lines=HI!,+I'm+Milena+Melo;I'm+an+Information+Systems+student;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=meloMilena&show_icons=true&count_private=true&hide_border=true&title_color=00d5e0&icon_color=fdffa1&text_color=0e7eed&bg_color=0d1117" alt="Milena Melo github stats" /> 
